@@ -1,7 +1,7 @@
 {
-  "name": "angular-cc-library",
+  "name": "ng-betalabs-creditcard",
   "version": "1.2.6",
-  "description": "angular credit card library",
+  "description": "angular credit card library forked from angular-cc-library to adapt to Betalabs Engine",
   "main": "index.js",
   "typings": "index.d.ts",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nogorilla/angular-cc-library.git"
+    "url": "git+https://github.com/Betalabs/angular-cc-library.git"
   },
   "files": [
     "README.md",
@@ -34,9 +34,9 @@
   "author": "nogorilla <gabriel.smith010@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nogorilla/angular-cc-library/issues"
+    "url": "https://github.com/Betalabs/angular-cc-library/issues"
   },
-  "homepage": "https://github.com/nogorilla/angular-cc-library#readme",
+  "homepage": "https://github.com/Betalabs/angular-cc-library#readme",
   "devDependencies": {
     "@angular/common": "^4.4.3",
     "@angular/compiler": "^4.4.3",
