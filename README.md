@@ -1,6 +1,6 @@
 # Description
 
-Angular CC Library - for validation and formating of input parameters
+Angular CC Library forked for validation and formating of input parameters
 
 # Demo
 1. Clone repo
@@ -12,7 +12,7 @@ Angular CC Library - for validation and formating of input parameters
 
 ## Installation
 ```shell
-npm install angular-cc-library --save
+npm install ng-betalabs-creditcard --save
 ```
 
 ## Formating Directive
