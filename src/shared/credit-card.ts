@@ -1420,6 +1420,13 @@ let cards = [
     cvvLength: [3],
     luhn: true
   }, {
+    type: 'hipercard',
+    patterns: [606282],
+    format: defaultFormat,
+    length: [16],
+    cvvLength: [3],
+    luhn: true
+  }, {
     type: 'discover',
     patterns: [60, 64, 65, 622],
     format: defaultFormat,
