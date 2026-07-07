@@ -1418,7 +1418,7 @@ let cards = [
     format: defaultFormat,
     length: [16],
     cvvLength: [3],
-    luhn: true
+    luhn: false
   }, {
     type: 'dinersclub',
     patterns: [30, 36, 38, 39],
