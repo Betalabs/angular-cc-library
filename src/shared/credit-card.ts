@@ -1414,6 +1414,13 @@ let cards = [
     luhn: true
   }, {
     type: 'dinersclub',
+    patterns: [300, 301, 302, 303, 304, 305],
+    format: defaultFormat,
+    length: [16],
+    cvvLength: [3],
+    luhn: true
+  }, {
+    type: 'dinersclub',
     patterns: [30, 36, 38, 39],
     format: /(\d{1,4})(\d{1,6})?(\d{1,4})?/,
     length: [14],
